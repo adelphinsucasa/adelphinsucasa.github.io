@@ -66,6 +66,16 @@ small {
   justify-content: center;
 }
 
+.button_foot_Container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 nav ul {
   display: flex;
   flex-direction: column;
@@ -408,6 +418,8 @@ form {
   width: 100%;
   align-content: center;
   gap: 24px;
+  align-items: center;
+  justify-content: center;
 }
 
 .first_footer_section input {
@@ -980,12 +992,6 @@ footer {
   }
 
   form {
-    /* margin-top: -10px;
-    display: flex;
-    flex-direction: column;
-    width: 40%;
-    margin-right: 10%; */
-
     margin-top: 58px;
     display: flex;
     flex-direction: column;
