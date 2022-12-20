@@ -454,6 +454,11 @@ form {
   margin-left: 24px;
 }
 
+.first_footer_section label {
+  margin-left: 24px;
+  color: #091e42;
+}
+
 .first_footer_section button {
   border: 1px solid #fff;
 }
