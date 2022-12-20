@@ -324,7 +324,7 @@ a.web_button:active {
 
 .first_about_container {
   background-size: 80px;
-  background-image: url(assets/images/desktop/aboutme1.png), url(assets/images/desktop/aboutme2.png);
+  background-image: url(./assets/images/desktop/aboutme1.png), url(./assets/images/desktop/aboutme2.png);
   background-position: right top, left bottom;
   background-repeat: no-repeat, no-repeat;
 }
